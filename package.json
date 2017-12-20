@@ -1,7 +1,7 @@
 {
   "name": "image-loader",
   "version": "1.0.0",
-  "description": "Technical Test for LadBible",
+  "description": "Technical Test",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

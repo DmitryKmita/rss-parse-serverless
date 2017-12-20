@@ -2,7 +2,7 @@ import * as parser from "rss-parser";
 import * as cheerio from "cheerio";
 
 /**
- * Serverless Function to Parse LadBible RSS Feed and provide article images
+ * Serverless Function to Parse RSS Feed and provide article images
  *
  * I have intentionally ignored media:content in feed item, because it the task you asked to parse the actual article
  *
