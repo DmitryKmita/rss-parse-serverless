@@ -1,4 +1,4 @@
-**Serverless function to parse LadBible RSS**
+**Serverless function to parse RSS**
 
 How to build:
 * Install serverless globally
