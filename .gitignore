@@ -1,0 +1,8 @@
+# package directories
+node_modules
+.idea
+.webpack
+jspm_packages
+
+# Serverless directories
+.serverless

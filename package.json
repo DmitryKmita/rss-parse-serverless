@@ -1,0 +1,21 @@
+{
+  "name": "image-loader",
+  "version": "1.0.0",
+  "description": "Technical Test for LadBible",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dmitry Kmita",
+  "license": "ISC",
+  "devDependencies": {
+    "serverless-webpack": "^4.1.0",
+    "ts-loader": "^3.2.0",
+    "typescript": "^2.6.2",
+    "webpack": "^3.10.0"
+  },
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "rss-parser": "^2.11.0"
+  }
+}
